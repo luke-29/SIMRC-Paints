@@ -1,7 +1,7 @@
 # SIMRC-Paints
 Paints for SIMRC.de League
 
-#compleded skins
+##compleded skins
 Yellow-Post-Skins
 * GT3-Mclaren-MP4
 * GT3-Ford-GT / juniorclub
@@ -12,10 +12,23 @@ Yellow-Post-Skins
 * Mazda-MX5 / juniorclub
 * Nascar-Chevrolet-SS
 
-#comming soon
+##logos
+logos
+* 01-SimRC
+* 02-Post
+* 03-Asiatech
+* 04-Lufthansa
+* 05-CAPRISUN
+* 06-BASF
+* 07-Rauch
+* 08-Sonax
+* 09-Sky
+* 10-Glump
+
+##comming soon
 Yellow-Post-Skins
 * Aston-Martin-DB9
 * Honda-HPD
 
-#hemets
+##hemets
 * Matthardy
