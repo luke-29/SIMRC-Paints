@@ -16,7 +16,7 @@ Yellow-Post-Skins
 
 
 ##logos
-logos
+SimRC Logos
 * 01-SimRC
 * 02-Post
 * 03-Asiatech
