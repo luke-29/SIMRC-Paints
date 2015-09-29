@@ -12,6 +12,7 @@ Yellow-Post-Skins
 * Kia Optima / juniorclub
 * Mazda-MX5 / juniorclub
 * Nascar-Chevrolet-SS
+* Nascar-Late-Model
 
 
 ##logos
@@ -26,6 +27,7 @@ logos
 * 08-Sonax
 * 09-Sky
 * 10-Glump
+* 11-CocaCola
 
 ##comming soon
 Yellow-Post-Skins
