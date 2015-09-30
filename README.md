@@ -1,5 +1,6 @@
 # SIMRC-Paints
 Paints for SIMRC.de League
+You can also get the paints on [trading paints](http://www.tradingpaints.com/profile/182493/Dustin-Hickmann).
 
 ##compleded skins
 Yellow-Post-Skins
@@ -13,7 +14,7 @@ Yellow-Post-Skins
 * Mazda-MX5 / juniorclub
 * Nascar-Chevrolet-SS
 * Nascar-Late-Model
-
+* Honda-HPD-arx01C
 
 ##logos
 SimRC Logos
@@ -28,11 +29,12 @@ SimRC Logos
 * 09-Sky
 * 10-Glump
 * 11-CocaCola
+* 12-Tempo
+* 13-EASYDOESIT
 
 ##comming soon
 Yellow-Post-Skins
 * Aston-Martin-DB9
-* Honda-HPD
 
 ##hemets
 * Matthardy
