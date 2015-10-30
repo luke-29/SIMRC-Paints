@@ -9,6 +9,7 @@ Yellow-Post-Skins
 * GT3-BMW-Z4 / juniorclub
 * GT3-Ruf-RT12R / juniorclub
 * Indy-DW12
+* Indy-Dallara-11
 * DP-Corvette-C7
 * Kia Optima / juniorclub
 * Mazda-MX5 / juniorclub
