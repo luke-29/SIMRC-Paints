@@ -8,6 +8,7 @@ Yellow-Post-Skins
 * GT3-Ford-GT / juniorclub
 * GT3-BMW-Z4 / juniorclub
 * GT3-Ruf-RT12R / juniorclub
+* GT1-Corvette-C6r / juniorclub
 * Indy-DW12
 * Indy-Dallara-11
 * DP-Corvette-C7
