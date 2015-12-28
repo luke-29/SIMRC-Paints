@@ -17,6 +17,7 @@ Yellow-Post-Skins
 * Nascar-Chevrolet-SS
 * Nascar-Late-Model
 * Honda-HPD-arx01C
+* Skip Barber
 
 ##logos
 SimRC Logos
