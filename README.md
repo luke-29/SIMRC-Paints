@@ -18,6 +18,7 @@ Yellow-Post-Skins
 * Nascar-Late-Model
 * Honda-HPD-arx01C
 * Skip Barber
+* Pontiac Solstice
 
 ##logos
 SimRC Logos
