@@ -9,6 +9,7 @@ Yellow-Post-Skins
 * GT3-BMW-Z4 / juniorclub
 * GT3-Ruf-RT12R / juniorclub
 * GT1-Corvette-C6r / juniorclub
+* GT1-Aston-Martin-DB9
 * Indy-DW12
 * Indy-Dallara-11
 * DP-Corvette-C7
@@ -16,7 +17,8 @@ Yellow-Post-Skins
 * Mazda-MX5 / juniorclub
 * Nascar-Chevrolet-SS
 * Nascar-Late-Model
-* Nascar-Chevrolet-Silverradeo
+* Nascar-Chevrolet-Silverradeo-2013
+* Nascar-Chevrolet-Silverradeo-2015
 * Honda-HPD-arx01C
 * Skip Barber
 * Pontiac Solstice
@@ -39,7 +41,7 @@ SimRC Logos
 
 ##comming soon
 Yellow-Post-Skins
-* Aston-Martin-DB9
+
 
 ##hemets
 * Matthardy
