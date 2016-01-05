@@ -16,6 +16,7 @@ Yellow-Post-Skins
 * Mazda-MX5 / juniorclub
 * Nascar-Chevrolet-SS
 * Nascar-Late-Model
+* Nascar-Chevrolet-Silverradeo
 * Honda-HPD-arx01C
 * Skip Barber
 * Pontiac Solstice
