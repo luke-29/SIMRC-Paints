@@ -21,6 +21,7 @@ Yellow-Post-Skins
 * Nascar-Chevrolet-Silverradeo-2015
 * Honda-HPD-arx01C
 * Skip Barber
+* Star Mazda
 * Pontiac Solstice
 
 ##logos
