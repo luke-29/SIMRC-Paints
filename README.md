@@ -16,6 +16,7 @@ Yellow-Post-Skins
 * Kia Optima / juniorclub
 * Mazda-MX5 / juniorclub
 * Nascar-Chevrolet-SS
+* Nascar-Toyota-Camry
 * Nascar-Late-Model
 * Nascar-Chevrolet-Silverradeo-2013
 * Nascar-Chevrolet-Silverradeo-2015
