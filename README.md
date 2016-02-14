@@ -19,6 +19,7 @@ Yellow-Post-Skins
 * Nascar-Late-Model
 * Nascar-Chevrolet-Silverradeo-2013
 * Nascar-Chevrolet-Silverradeo-2015
+* Nascar-Xfinity-Toyota-Camry
 * Honda-HPD-arx01C
 * Skip Barber
 * Star Mazda
