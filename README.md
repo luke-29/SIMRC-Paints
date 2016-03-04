@@ -25,6 +25,7 @@ Yellow-Post-Skins
 * Skip Barber
 * Star Mazda
 * Pontiac Solstice
+* Ford Mustang FR500S
 
 ##logos
 SimRC Logos
