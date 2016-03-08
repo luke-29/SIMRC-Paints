@@ -15,6 +15,7 @@ Yellow-Post-Skins
 * DP-Corvette-C7
 * Kia Optima / juniorclub
 * Mazda-MX5 / juniorclub
+* Mazda-MX5 2016
 * Nascar-Chevrolet-SS
 * Nascar-Toyota-Camry
 * Nascar-Late-Model
