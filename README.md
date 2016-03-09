@@ -4,6 +4,7 @@ You can also get the paints on [trading paints](http://www.tradingpaints.com/pro
 
 ##compleded skins
 Yellow-Post-Skins
+* GT3-Audi-R8-LMS
 * GT3-Mclaren-MP4
 * GT3-Ford-GT / juniorclub
 * GT3-BMW-Z4 / juniorclub
