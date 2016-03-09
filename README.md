@@ -28,6 +28,7 @@ Yellow-Post-Skins
 * Star Mazda
 * Pontiac Solstice
 * Ford Mustang FR500S
+* Formula Renault 2.0
 
 ##logos
 SimRC Logos
