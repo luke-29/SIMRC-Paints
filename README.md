@@ -30,6 +30,7 @@ Yellow-Post-Skins
 * Pontiac Solstice
 * Ford Mustang FR500S
 * Formula Renault 2.0
+* Lotus 79
 
 ##logos
 SimRC Logos
